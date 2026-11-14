@@ -2,7 +2,7 @@
   "name": "module-crm-client-onboarding-filament",
   "display_name": "CRM Client Onboarding Filament",
   "description": "Client onboarding Filament resources",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\CRM\\ClientOnboardingFilament\\ClientOnboardingFilamentServiceProvider",
   "requires": {
